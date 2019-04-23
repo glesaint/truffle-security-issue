@@ -1,3 +1,6 @@
+# Description
+This repo exists to reproduce this issue: https://github.com/ConsenSys/truffle-security/issues/186
+
 # Installation
 Run
 ```bash
